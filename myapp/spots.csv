@@ -1,0 +1,11 @@
+﻿id,Name,NameEN,County,Districts,x,y,Capacity,types,typesEN
+1,國立故宮博物院,Palace Museum,臺北市,士林區,121.54849,25.10236,550000,室內,Indoors
+2,七股鹽山,Salt mountain,臺南市,七股區,120.1,23.15413,75000,室外,Outdoors
+3,麗寶樂園渡假區,Water Amusemnet Park,臺中市,后里區,120.69559,24.32302,420000,綜合,Indoors_and_Outdoors
+4,高雄市立美術館,Kaohsiung Art Museum,高雄市,鼓山區,120.28655,22.65669,90000,室內,Indoors
+5,七星潭風景區,Seven star lake,花蓮縣,新城鄉,121.62852,24.03202,14000,室外,Outdoors
+6,猴硐貓村,Monkey cave cat village,新北市,瑞芳區,121.82722,25.08705,90500,室外,Outdoors
+7,小人國,Little man world,桃園市,龍潭區,121.18711,24.83195,40000,綜合,Indoors_and_Outdoors
+8,布農部落文化園區,"Aboriginal tribes, Boonon",臺東縣,延平鄉,121.09087,22.90565,8000,綜合,Indoors_and_Outdoors
+9,鹿港龍山寺,Lugon Dragon Temple,彰化縣,鹿港鎮,120.435628,24.050383,78000,室內,Indoors
+10,清境農場,Clean Farm,南投縣,仁愛鄉,121.16263,24.0554,140000,室外,Outdoors

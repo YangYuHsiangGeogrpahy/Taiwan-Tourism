@@ -1,0 +1,13 @@
+name: midterm
+title:
+username:
+account: elephantfish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5101367
+bundleId: 5247897
+url: https://elephantfish.shinyapps.io/midterm/
+when: 1636809354.27931
+lastSyncTime: 1636809354.27932
+asMultiple: FALSE
+asStatic: FALSE
